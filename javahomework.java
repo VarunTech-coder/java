@@ -1,0 +1,1 @@
+//take input from user all data types and print them in java
